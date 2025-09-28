@@ -1,0 +1,1010 @@
+[
+  {
+    "industry": "Content Creation & Copywriting",
+    "level": "Beginner",
+    "pricing": "Free",
+    "tools": [
+      {
+        "name": "ChatGPT (Free Tier)",
+        "logoUrl": "/placeholder.svg?height=32&width=32",
+        "website": "https://chat.openai.com/",
+        "prompt": "Write a short, polite email to a colleague to schedule a meeting.",
+        "pricing": "Free"
+      },
+      {
+        "name": "Grammarly (Free Tier)",
+        "logoUrl": "/placeholder.svg?height=32&width=32",
+        "website": "https://www.grammarly.com/",
+        "prompt": "Automatically checks spelling and grammar as you type.",
+        "pricing": "Freemium"
+      },
+      {
+        "name": "Hemingway Editor",
+        "logoUrl": "/placeholder.svg?height=32&width=32",
+        "website": "https://hemingwayapp.com/",
+        "prompt": "Make my writing bold and clear by highlighting complex sentences.",
+        "pricing": "Freemium"
+      }
+    ]
+  },
+  {
+    "industry": "Content Creation & Copywriting",
+    "level": "Intermediate",
+    "pricing": "Paid",
+    "tools": [
+      {
+        "name": "Jasper",
+        "logoUrl": "/placeholder.svg?height=32&width=32",
+        "website": "https://www.jasper.ai/",
+        "prompt": "Write a persuasive Facebook ad for a new caramel latte, targeting young professionals.",
+        "pricing": "Paid"
+      },
+      {
+        "name": "Claude Pro",
+        "logoUrl": "/placeholder.svg?height=32&width=32",
+        "website": "https://claude.ai/",
+        "prompt": "Analyze this marketing copy and suggest improvements for better conversion.",
+        "pricing": "Paid"
+      },
+      {
+        "name": "Notion AI",
+        "logoUrl": "/placeholder.svg?height=32&width=32",
+        "website": "https://www.notion.so/product/ai",
+        "prompt": "Create a content calendar for a tech startup's blog for the next quarter.",
+        "pricing": "Paid"
+      }
+    ]
+  },
+  {
+    "industry": "Content Creation & Copywriting",
+    "level": "Advanced",
+    "pricing": "Paid",
+    "tools": [
+      {
+        "name": "GPT-4 API",
+        "logoUrl": "/placeholder.svg?height=32&width=32",
+        "website": "https://platform.openai.com/",
+        "prompt": "Build a custom content generation workflow with fine-tuned prompts.",
+        "pricing": "Paid"
+      },
+      {
+        "name": "Surfer SEO",
+        "logoUrl": "/placeholder.svg?height=32&width=32",
+        "website": "https://surferseo.com/",
+        "prompt": "Optimize this article for 'digital marketing trends' with data-driven insights.",
+        "pricing": "Paid"
+      },
+      {
+        "name": "MarketMuse",
+        "logoUrl": "/placeholder.svg?height=32&width=32",
+        "website": "https://www.marketmuse.com/",
+        "prompt": "Analyze content gaps and create a comprehensive content strategy.",
+        "pricing": "Paid"
+      }
+    ]
+  },
+  {
+    "industry": "Data Analysis & Visualization",
+    "level": "Beginner",
+    "pricing": "Free",
+    "tools": [
+      {
+        "name": "Google Sheets AI",
+        "logoUrl": "/placeholder.svg?height=32&width=32",
+        "website": "https://sheets.google.com/",
+        "prompt": "Create a simple chart from this sales data.",
+        "pricing": "Free"
+      },
+      {
+        "name": "Tableau Public",
+        "logoUrl": "/placeholder.svg?height=32&width=32",
+        "website": "https://public.tableau.com/",
+        "prompt": "Build an interactive dashboard from CSV data.",
+        "pricing": "Free"
+      },
+      {
+        "name": "Microsoft Excel AI",
+        "logoUrl": "/placeholder.svg?height=32&width=32",
+        "website": "https://www.microsoft.com/excel",
+        "prompt": "Analyze trends in this quarterly report.",
+        "pricing": "Freemium"
+      }
+    ]
+  },
+  {
+    "industry": "Data Analysis & Visualization",
+    "level": "Intermediate",
+    "pricing": "Paid",
+    "tools": [
+      {
+        "name": "Power BI",
+        "logoUrl": "/placeholder.svg?height=32&width=32",
+        "website": "https://powerbi.microsoft.com/",
+        "prompt": "Create automated reports with AI insights.",
+        "pricing": "Paid"
+      },
+      {
+        "name": "DataRobot",
+        "logoUrl": "/placeholder.svg?height=32&width=32",
+        "website": "https://www.datarobot.com/",
+        "prompt": "Build predictive models without coding.",
+        "pricing": "Paid"
+      },
+      {
+        "name": "Alteryx",
+        "logoUrl": "/placeholder.svg?height=32&width=32",
+        "website": "https://www.alteryx.com/",
+        "prompt": "Automate data preparation and analysis workflows.",
+        "pricing": "Paid"
+      }
+    ]
+  },
+  {
+    "industry": "Data Analysis & Visualization",
+    "level": "Advanced",
+    "pricing": "Paid",
+    "tools": [
+      {
+        "name": "H2O.ai",
+        "logoUrl": "/placeholder.svg?height=32&width=32",
+        "website": "https://h2o.ai/",
+        "prompt": "Build enterprise-grade machine learning models.",
+        "pricing": "Paid"
+      },
+      {
+        "name": "Databricks",
+        "logoUrl": "/placeholder.svg?height=32&width=32",
+        "website": "https://databricks.com/",
+        "prompt": "Process big data with collaborative analytics.",
+        "pricing": "Paid"
+      },
+      {
+        "name": "Palantir Foundry",
+        "logoUrl": "/placeholder.svg?height=32&width=32",
+        "website": "https://www.palantir.com/",
+        "prompt": "Integrate and analyze complex enterprise data.",
+        "pricing": "Paid"
+      }
+    ]
+  },
+  {
+    "industry": "Design & Creative",
+    "level": "Beginner",
+    "pricing": "Free",
+    "tools": [
+      {
+        "name": "Canva AI",
+        "logoUrl": "/placeholder.svg?height=32&width=32",
+        "website": "https://www.canva.com/",
+        "prompt": "Design a social media post for a coffee shop.",
+        "pricing": "Freemium"
+      },
+      {
+        "name": "DALL-E 2",
+        "logoUrl": "/placeholder.svg?height=32&width=32",
+        "website": "https://openai.com/dall-e-2/",
+        "prompt": "Generate an image of a futuristic city skyline.",
+        "pricing": "Freemium"
+      },
+      {
+        "name": "Figma AI",
+        "logoUrl": "/placeholder.svg?height=32&width=32",
+        "website": "https://www.figma.com/",
+        "prompt": "Auto-layout this mobile app interface.",
+        "pricing": "Freemium"
+      }
+    ]
+  },
+  {
+    "industry": "Design & Creative",
+    "level": "Intermediate",
+    "pricing": "Paid",
+    "tools": [
+      {
+        "name": "Midjourney",
+        "logoUrl": "/placeholder.svg?height=32&width=32",
+        "website": "https://www.midjourney.com/",
+        "prompt": "Create a photorealistic product mockup for marketing.",
+        "pricing": "Paid"
+      },
+      {
+        "name": "Adobe Firefly",
+        "logoUrl": "/placeholder.svg?height=32&width=32",
+        "website": "https://www.adobe.com/products/firefly.html",
+        "prompt": "Generate custom graphics for brand campaigns.",
+        "pricing": "Paid"
+      },
+      {
+        "name": "Runway ML",
+        "logoUrl": "/placeholder.svg?height=32&width=32",
+        "website": "https://runwayml.com/",
+        "prompt": "Create AI-powered video effects and animations.",
+        "pricing": "Paid"
+      }
+    ]
+  },
+  {
+    "industry": "Design & Creative",
+    "level": "Advanced",
+    "pricing": "Paid",
+    "tools": [
+      {
+        "name": "Stable Diffusion",
+        "logoUrl": "/placeholder.svg?height=32&width=32",
+        "website": "https://stability.ai/",
+        "prompt": "Fine-tune custom models for brand-specific imagery.",
+        "pricing": "Paid"
+      },
+      {
+        "name": "Adobe Sensei",
+        "logoUrl": "/placeholder.svg?height=32&width=32",
+        "website": "https://www.adobe.com/sensei.html",
+        "prompt": "Automate complex design workflows with AI.",
+        "pricing": "Paid"
+      },
+      {
+        "name": "Autodesk AI",
+        "logoUrl": "/placeholder.svg?height=32&width=32",
+        "website": "https://www.autodesk.com/",
+        "prompt": "Generate 3D models and architectural designs.",
+        "pricing": "Paid"
+      }
+    ]
+  },
+  {
+    "industry": "Marketing & Advertising",
+    "level": "Beginner",
+    "pricing": "Free",
+    "tools": [
+      {
+        "name": "HubSpot AI",
+        "logoUrl": "/placeholder.svg?height=32&width=32",
+        "website": "https://www.hubspot.com/",
+        "prompt": "Generate email subject lines for better open rates.",
+        "pricing": "Freemium"
+      },
+      {
+        "name": "Mailchimp AI",
+        "logoUrl": "/placeholder.svg?height=32&width=32",
+        "website": "https://mailchimp.com/",
+        "prompt": "Optimize send times for email campaigns.",
+        "pricing": "Freemium"
+      },
+      {
+        "name": "Buffer AI",
+        "logoUrl": "/placeholder.svg?height=32&width=32",
+        "website": "https://buffer.com/",
+        "prompt": "Schedule social media posts at optimal times.",
+        "pricing": "Freemium"
+      }
+    ]
+  },
+  {
+    "industry": "Marketing & Advertising",
+    "level": "Intermediate",
+    "pricing": "Paid",
+    "tools": [
+      {
+        "name": "Salesforce Einstein",
+        "logoUrl": "/placeholder.svg?height=32&width=32",
+        "website": "https://www.salesforce.com/products/einstein/",
+        "prompt": "Predict customer behavior and personalize campaigns.",
+        "pricing": "Paid"
+      },
+      {
+        "name": "Marketo AI",
+        "logoUrl": "/placeholder.svg?height=32&width=32",
+        "website": "https://www.marketo.com/",
+        "prompt": "Automate lead scoring and nurturing workflows.",
+        "pricing": "Paid"
+      },
+      {
+        "name": "Adext AI",
+        "logoUrl": "/placeholder.svg?height=32&width=32",
+        "website": "https://adext.ai/",
+        "prompt": "Optimize ad spend across multiple platforms.",
+        "pricing": "Paid"
+      }
+    ]
+  },
+  {
+    "industry": "Marketing & Advertising",
+    "level": "Advanced",
+    "pricing": "Paid",
+    "tools": [
+      {
+        "name": "Albert AI",
+        "logoUrl": "/placeholder.svg?height=32&width=32",
+        "website": "https://albert.ai/",
+        "prompt": "Autonomous campaign management and optimization.",
+        "pricing": "Paid"
+      },
+      {
+        "name": "Persado",
+        "logoUrl": "/placeholder.svg?height=32&width=32",
+        "website": "https://www.persado.com/",
+        "prompt": "Generate emotionally optimized marketing messages.",
+        "pricing": "Paid"
+      },
+      {
+        "name": "Acquisio",
+        "logoUrl": "/placeholder.svg?height=32&width=32",
+        "website": "https://www.acquisio.com/",
+        "prompt": "Advanced bid management and campaign automation.",
+        "pricing": "Paid"
+      }
+    ]
+  },
+  {
+    "industry": "Customer Service & Support",
+    "level": "Beginner",
+    "pricing": "Free",
+    "tools": [
+      {
+        "name": "Zendesk AI",
+        "logoUrl": "/placeholder.svg?height=32&width=32",
+        "website": "https://www.zendesk.com/",
+        "prompt": "Auto-categorize support tickets by priority.",
+        "pricing": "Freemium"
+      },
+      {
+        "name": "Intercom AI",
+        "logoUrl": "/placeholder.svg?height=32&width=32",
+        "website": "https://www.intercom.com/",
+        "prompt": "Create automated chat responses for common questions.",
+        "pricing": "Freemium"
+      },
+      {
+        "name": "Freshdesk AI",
+        "logoUrl": "/placeholder.svg?height=32&width=32",
+        "website": "https://freshdesk.com/",
+        "prompt": "Suggest solutions based on ticket content.",
+        "pricing": "Freemium"
+      }
+    ]
+  },
+  {
+    "industry": "Customer Service & Support",
+    "level": "Intermediate",
+    "pricing": "Paid",
+    "tools": [
+      {
+        "name": "LivePerson AI",
+        "logoUrl": "/placeholder.svg?height=32&width=32",
+        "website": "https://www.liveperson.com/",
+        "prompt": "Deploy conversational AI for complex customer queries.",
+        "pricing": "Paid"
+      },
+      {
+        "name": "Ada AI",
+        "logoUrl": "/placeholder.svg?height=32&width=32",
+        "website": "https://ada.cx/",
+        "prompt": "Build sophisticated chatbots without coding.",
+        "pricing": "Paid"
+      },
+      {
+        "name": "Drift AI",
+        "logoUrl": "/placeholder.svg?height=32&width=32",
+        "website": "https://www.drift.com/",
+        "prompt": "Qualify leads through intelligent conversations.",
+        "pricing": "Paid"
+      }
+    ]
+  },
+  {
+    "industry": "Customer Service & Support",
+    "level": "Advanced",
+    "pricing": "Paid",
+    "tools": [
+      {
+        "name": "IBM Watson Assistant",
+        "logoUrl": "/placeholder.svg?height=32&width=32",
+        "website": "https://www.ibm.com/cloud/watson-assistant/",
+        "prompt": "Build enterprise-grade conversational AI systems.",
+        "pricing": "Paid"
+      },
+      {
+        "name": "Microsoft Bot Framework",
+        "logoUrl": "/placeholder.svg?height=32&width=32",
+        "website": "https://dev.botframework.com/",
+        "prompt": "Develop custom AI agents with advanced NLP.",
+        "pricing": "Paid"
+      },
+      {
+        "name": "Rasa",
+        "logoUrl": "/placeholder.svg?height=32&width=32",
+        "website": "https://rasa.com/",
+        "prompt": "Create contextual AI assistants with machine learning.",
+        "pricing": "Paid"
+      }
+    ]
+  },
+  {
+    "industry": "Sales & CRM",
+    "level": "Beginner",
+    "pricing": "Free",
+    "tools": [
+      {
+        "name": "HubSpot CRM AI",
+        "logoUrl": "/placeholder.svg?height=32&width=32",
+        "website": "https://www.hubspot.com/products/crm",
+        "prompt": "Score leads automatically based on engagement.",
+        "pricing": "Freemium"
+      },
+      {
+        "name": "Pipedrive AI",
+        "logoUrl": "/placeholder.svg?height=32&width=32",
+        "website": "https://www.pipedrive.com/",
+        "prompt": "Get deal insights and next-step recommendations.",
+        "pricing": "Freemium"
+      },
+      {
+        "name": "Zoho CRM AI",
+        "logoUrl": "/placeholder.svg?height=32&width=32",
+        "website": "https://www.zoho.com/crm/",
+        "prompt": "Predict deal closure probability.",
+        "pricing": "Freemium"
+      }
+    ]
+  },
+  {
+    "industry": "Sales & CRM",
+    "level": "Intermediate",
+    "pricing": "Paid",
+    "tools": [
+      {
+        "name": "Salesforce Einstein",
+        "logoUrl": "/placeholder.svg?height=32&width=32",
+        "website": "https://www.salesforce.com/products/einstein/",
+        "prompt": "Automate opportunity scoring and forecasting.",
+        "pricing": "Paid"
+      },
+      {
+        "name": "Outreach AI",
+        "logoUrl": "/placeholder.svg?height=32&width=32",
+        "website": "https://www.outreach.io/",
+        "prompt": "Optimize email sequences for better response rates.",
+        "pricing": "Paid"
+      },
+      {
+        "name": "Gong AI",
+        "logoUrl": "/placeholder.svg?height=32&width=32",
+        "website": "https://www.gong.io/",
+        "prompt": "Analyze sales calls for coaching insights.",
+        "pricing": "Paid"
+      }
+    ]
+  },
+  {
+    "industry": "Sales & CRM",
+    "level": "Advanced",
+    "pricing": "Paid",
+    "tools": [
+      {
+        "name": "Chorus AI",
+        "logoUrl": "/placeholder.svg?height=32&width=32",
+        "website": "https://www.chorus.ai/",
+        "prompt": "Advanced conversation analytics and deal intelligence.",
+        "pricing": "Paid"
+      },
+      {
+        "name": "People.ai",
+        "logoUrl": "/placeholder.svg?height=32&width=32",
+        "website": "https://people.ai/",
+        "prompt": "Revenue intelligence and sales process optimization.",
+        "pricing": "Paid"
+      },
+      {
+        "name": "Clari AI",
+        "logoUrl": "/placeholder.svg?height=32&width=32",
+        "website": "https://www.clari.com/",
+        "prompt": "Predictive revenue forecasting and pipeline management.",
+        "pricing": "Paid"
+      }
+    ]
+  },
+  {
+    "industry": "Human Resources & Recruitment",
+    "level": "Beginner",
+    "pricing": "Free",
+    "tools": [
+      {
+        "name": "LinkedIn Recruiter AI",
+        "logoUrl": "/placeholder.svg?height=32&width=32",
+        "website": "https://business.linkedin.com/talent-solutions/recruiter",
+        "prompt": "Find candidates matching job requirements.",
+        "pricing": "Freemium"
+      },
+      {
+        "name": "Indeed AI",
+        "logoUrl": "/placeholder.svg?height=32&width=32",
+        "website": "https://www.indeed.com/",
+        "prompt": "Match job postings with qualified candidates.",
+        "pricing": "Freemium"
+      },
+      {
+        "name": "ZipRecruiter AI",
+        "logoUrl": "/placeholder.svg?height=32&width=32",
+        "website": "https://www.ziprecruiter.com/",
+        "prompt": "Auto-screen resumes for relevant experience.",
+        "pricing": "Freemium"
+      }
+    ]
+  },
+  {
+    "industry": "Human Resources & Recruitment",
+    "level": "Intermediate",
+    "pricing": "Paid",
+    "tools": [
+      {
+        "name": "Workday AI",
+        "logoUrl": "/placeholder.svg?height=32&width=32",
+        "website": "https://www.workday.com/",
+        "prompt": "Analyze employee performance and engagement trends.",
+        "pricing": "Paid"
+      },
+      {
+        "name": "BambooHR AI",
+        "logoUrl": "/placeholder.svg?height=32&width=32",
+        "website": "https://www.bamboohr.com/",
+        "prompt": "Predict employee turnover and retention strategies.",
+        "pricing": "Paid"
+      },
+      {
+        "name": "Greenhouse AI",
+        "logoUrl": "/placeholder.svg?height=32&width=32",
+        "website": "https://www.greenhouse.io/",
+        "prompt": "Optimize interview processes and candidate evaluation.",
+        "pricing": "Paid"
+      }
+    ]
+  },
+  {
+    "industry": "Human Resources & Recruitment",
+    "level": "Advanced",
+    "pricing": "Paid",
+    "tools": [
+      {
+        "name": "Pymetrics AI",
+        "logoUrl": "/placeholder.svg?height=32&width=32",
+        "website": "https://www.pymetrics.ai/",
+        "prompt": "Assess candidate fit using neuroscience-based games.",
+        "pricing": "Paid"
+      },
+      {
+        "name": "HireVue AI",
+        "logoUrl": "/placeholder.svg?height=32&width=32",
+        "website": "https://www.hirevue.com/",
+        "prompt": "Analyze video interviews for candidate assessment.",
+        "pricing": "Paid"
+      },
+      {
+        "name": "Eightfold AI",
+        "logoUrl": "/placeholder.svg?height=32&width=32",
+        "website": "https://eightfold.ai/",
+        "prompt": "Talent intelligence and workforce planning.",
+        "pricing": "Paid"
+      }
+    ]
+  },
+  {
+    "industry": "Finance & Accounting",
+    "level": "Beginner",
+    "pricing": "Free",
+    "tools": [
+      {
+        "name": "QuickBooks AI",
+        "logoUrl": "/placeholder.svg?height=32&width=32",
+        "website": "https://quickbooks.intuit.com/",
+        "prompt": "Categorize expenses automatically from receipts.",
+        "pricing": "Freemium"
+      },
+      {
+        "name": "Mint AI",
+        "logoUrl": "/placeholder.svg?height=32&width=32",
+        "website": "https://mint.intuit.com/",
+        "prompt": "Track spending patterns and budget recommendations.",
+        "pricing": "Free"
+      },
+      {
+        "name": "Wave AI",
+        "logoUrl": "/placeholder.svg?height=32&width=32",
+        "website": "https://www.waveapps.com/",
+        "prompt": "Generate invoices and track payments automatically.",
+        "pricing": "Free"
+      }
+    ]
+  },
+  {
+    "industry": "Finance & Accounting",
+    "level": "Intermediate",
+    "pricing": "Paid",
+    "tools": [
+      {
+        "name": "Xero AI",
+        "logoUrl": "/placeholder.svg?height=32&width=32",
+        "website": "https://www.xero.com/",
+        "prompt": "Automate bank reconciliation and financial reporting.",
+        "pricing": "Paid"
+      },
+      {
+        "name": "FreshBooks AI",
+        "logoUrl": "/placeholder.svg?height=32&width=32",
+        "website": "https://www.freshbooks.com/",
+        "prompt": "Predict cash flow and optimize billing cycles.",
+        "pricing": "Paid"
+      },
+      {
+        "name": "Sage AI",
+        "logoUrl": "/placeholder.svg?height=32&width=32",
+        "website": "https://www.sage.com/",
+        "prompt": "Advanced financial analytics and forecasting.",
+        "pricing": "Paid"
+      }
+    ]
+  },
+  {
+    "industry": "Finance & Accounting",
+    "level": "Advanced",
+    "pricing": "Paid",
+    "tools": [
+      {
+        "name": "Oracle NetSuite AI",
+        "logoUrl": "/placeholder.svg?height=32&width=32",
+        "website": "https://www.netsuite.com/",
+        "prompt": "Enterprise financial planning and analysis.",
+        "pricing": "Paid"
+      },
+      {
+        "name": "SAP AI",
+        "logoUrl": "/placeholder.svg?height=32&width=32",
+        "website": "https://www.sap.com/",
+        "prompt": "Intelligent enterprise resource planning.",
+        "pricing": "Paid"
+      },
+      {
+        "name": "BlackLine AI",
+        "logoUrl": "/placeholder.svg?height=32&width=32",
+        "website": "https://www.blackline.com/",
+        "prompt": "Automated financial close and reconciliation.",
+        "pricing": "Paid"
+      }
+    ]
+  },
+  {
+    "industry": "Healthcare & Medical",
+    "level": "Beginner",
+    "pricing": "Free",
+    "tools": [
+      {
+        "name": "WebMD AI",
+        "logoUrl": "/placeholder.svg?height=32&width=32",
+        "website": "https://www.webmd.com/",
+        "prompt": "Get basic health information and symptom guidance.",
+        "pricing": "Free"
+      },
+      {
+        "name": "Ada Health",
+        "logoUrl": "/placeholder.svg?height=32&width=32",
+        "website": "https://ada.com/",
+        "prompt": "Assess symptoms with AI-powered health checker.",
+        "pricing": "Freemium"
+      },
+      {
+        "name": "Babylon Health",
+        "logoUrl": "/placeholder.svg?height=32&width=32",
+        "website": "https://www.babylonhealth.com/",
+        "prompt": "Virtual health consultations and triage.",
+        "pricing": "Freemium"
+      }
+    ]
+  },
+  {
+    "industry": "Healthcare & Medical",
+    "level": "Intermediate",
+    "pricing": "Paid",
+    "tools": [
+      {
+        "name": "IBM Watson Health",
+        "logoUrl": "/placeholder.svg?height=32&width=32",
+        "website": "https://www.ibm.com/watson-health",
+        "prompt": "Analyze medical data for clinical insights.",
+        "pricing": "Paid"
+      },
+      {
+        "name": "Tempus AI",
+        "logoUrl": "/placeholder.svg?height=32&width=32",
+        "website": "https://www.tempus.com/",
+        "prompt": "Personalized cancer treatment recommendations.",
+        "pricing": "Paid"
+      },
+      {
+        "name": "Zebra Medical",
+        "logoUrl": "/placeholder.svg?height=32&width=32",
+        "website": "https://www.zebra-med.com/",
+        "prompt": "AI-powered medical imaging analysis.",
+        "pricing": "Paid"
+      }
+    ]
+  },
+  {
+    "industry": "Healthcare & Medical",
+    "level": "Advanced",
+    "pricing": "Paid",
+    "tools": [
+      {
+        "name": "DeepMind Health",
+        "logoUrl": "/placeholder.svg?height=32&width=32",
+        "website": "https://deepmind.com/applied/deepmind-health/",
+        "prompt": "Advanced AI for medical research and diagnosis.",
+        "pricing": "Paid"
+      },
+      {
+        "name": "PathAI",
+        "logoUrl": "/placeholder.svg?height=32&width=32",
+        "website": "https://www.pathai.com/",
+        "prompt": "AI-powered pathology and diagnostic tools.",
+        "pricing": "Paid"
+      },
+      {
+        "name": "Aidoc AI",
+        "logoUrl": "/placeholder.svg?height=32&width=32",
+        "website": "https://www.aidoc.com/",
+        "prompt": "Real-time medical imaging analysis for radiologists.",
+        "pricing": "Paid"
+      }
+    ]
+  },
+  {
+    "industry": "Education & E-learning",
+    "level": "Beginner",
+    "pricing": "Free",
+    "tools": [
+      {
+        "name": "Khan Academy AI",
+        "logoUrl": "/placeholder.svg?height=32&width=32",
+        "website": "https://www.khanacademy.org/",
+        "prompt": "Get personalized learning recommendations.",
+        "pricing": "Free"
+      },
+      {
+        "name": "Duolingo AI",
+        "logoUrl": "/placeholder.svg?height=32&width=32",
+        "website": "https://www.duolingo.com/",
+        "prompt": "Adaptive language learning with AI tutoring.",
+        "pricing": "Freemium"
+      },
+      {
+        "name": "Coursera AI",
+        "logoUrl": "/placeholder.svg?height=32&width=32",
+        "website": "https://www.coursera.org/",
+        "prompt": "Recommend courses based on career goals.",
+        "pricing": "Freemium"
+      }
+    ]
+  },
+  {
+    "industry": "Education & E-learning",
+    "level": "Intermediate",
+    "pricing": "Paid",
+    "tools": [
+      {
+        "name": "Blackboard AI",
+        "logoUrl": "/placeholder.svg?height=32&width=32",
+        "website": "https://www.blackboard.com/",
+        "prompt": "Intelligent tutoring and student analytics.",
+        "pricing": "Paid"
+      },
+      {
+        "name": "Canvas AI",
+        "logoUrl": "/placeholder.svg?height=32&width=32",
+        "website": "https://www.instructure.com/canvas",
+        "prompt": "Automated grading and feedback systems.",
+        "pricing": "Paid"
+      },
+      {
+        "name": "Pearson AI",
+        "logoUrl": "/placeholder.svg?height=32&width=32",
+        "website": "https://www.pearson.com/",
+        "prompt": "Adaptive learning platforms and assessments.",
+        "pricing": "Paid"
+      }
+    ]
+  },
+  {
+    "industry": "Education & E-learning",
+    "level": "Advanced",
+    "pricing": "Paid",
+    "tools": [
+      {
+        "name": "Carnegie Learning",
+        "logoUrl": "/placeholder.svg?height=32&width=32",
+        "website": "https://www.carnegielearning.com/",
+        "prompt": "AI-driven math and language arts curricula.",
+        "pricing": "Paid"
+      },
+      {
+        "name": "Squirrel AI",
+        "logoUrl": "/placeholder.svg?height=32&width=32",
+        "website": "https://squirrelai.com/",
+        "prompt": "Personalized AI tutoring systems.",
+        "pricing": "Paid"
+      },
+      {
+        "name": "Century Tech",
+        "logoUrl": "/placeholder.svg?height=32&width=32",
+        "website": "https://www.century.tech/",
+        "prompt": "AI-powered learning analytics and insights.",
+        "pricing": "Paid"
+      }
+    ]
+  },
+  {
+    "industry": "Legal & Compliance",
+    "level": "Beginner",
+    "pricing": "Free",
+    "tools": [
+      {
+        "name": "LegalZoom AI",
+        "logoUrl": "/placeholder.svg?height=32&width=32",
+        "website": "https://www.legalzoom.com/",
+        "prompt": "Generate basic legal documents and contracts.",
+        "pricing": "Freemium"
+      },
+      {
+        "name": "Rocket Lawyer AI",
+        "logoUrl": "/placeholder.svg?height=32&width=32",
+        "website": "https://www.rocketlawyer.com/",
+        "prompt": "Create simple legal forms and agreements.",
+        "pricing": "Freemium"
+      },
+      {
+        "name": "Nolo AI",
+        "logoUrl": "/placeholder.svg?height=32&width=32",
+        "website": "https://www.nolo.com/",
+        "prompt": "Get legal guidance for common issues.",
+        "pricing": "Freemium"
+      }
+    ]
+  },
+  {
+    "industry": "Legal & Compliance",
+    "level": "Intermediate",
+    "pricing": "Paid",
+    "tools": [
+      {
+        "name": "Westlaw AI",
+        "logoUrl": "/placeholder.svg?height=32&width=32",
+        "website": "https://legal.thomsonreuters.com/en/products/westlaw",
+        "prompt": "Research case law and legal precedents.",
+        "pricing": "Paid"
+      },
+      {
+        "name": "LexisNexis AI",
+        "logoUrl": "/placeholder.svg?height=32&width=32",
+        "website": "https://www.lexisnexis.com/",
+        "prompt": "Advanced legal research and analytics.",
+        "pricing": "Paid"
+      },
+      {
+        "name": "Casetext AI",
+        "logoUrl": "/placeholder.svg?height=32&width=32",
+        "website": "https://casetext.com/",
+        "prompt": "AI-powered legal research and brief writing.",
+        "pricing": "Paid"
+      }
+    ]
+  },
+  {
+    "industry": "Legal & Compliance",
+    "level": "Advanced",
+    "pricing": "Paid",
+    "tools": [
+      {
+        "name": "Kira Systems",
+        "logoUrl": "/placeholder.svg?height=32&width=32",
+        "website": "https://kirasystems.com/",
+        "prompt": "Contract analysis and due diligence automation.",
+        "pricing": "Paid"
+      },
+      {
+        "name": "Luminance AI",
+        "logoUrl": "/placeholder.svg?height=32&width=32",
+        "website": "https://www.luminance.com/",
+        "prompt": "AI-powered contract review and negotiation.",
+        "pricing": "Paid"
+      },
+      {
+        "name": "ROSS Intelligence",
+        "logoUrl": "/placeholder.svg?height=32&width=32",
+        "website": "https://rossintelligence.com/",
+        "prompt": "AI legal research and case strategy.",
+        "pricing": "Paid"
+      }
+    ]
+  },
+  {
+    "industry": "Real Estate & Property",
+    "level": "Beginner",
+    "pricing": "Free",
+    "tools": [
+      {
+        "name": "Zillow AI",
+        "logoUrl": "/placeholder.svg?height=32&width=32",
+        "website": "https://www.zillow.com/",
+        "prompt": "Get automated property valuations and market insights.",
+        "pricing": "Free"
+      },
+      {
+        "name": "Redfin AI",
+        "logoUrl": "/placeholder.svg?height=32&width=32",
+        "website": "https://www.redfin.com/",
+        "prompt": "Find properties matching your criteria.",
+        "pricing": "Free"
+      },
+      {
+        "name": "Realtor.com AI",
+        "logoUrl": "/placeholder.svg?height=32&width=32",
+        "website": "https://www.realtor.com/",
+        "prompt": "Search properties with AI-powered recommendations.",
+        "pricing": "Free"
+      }
+    ]
+  },
+  {
+    "industry": "Real Estate & Property",
+    "level": "Intermediate",
+    "pricing": "Paid",
+    "tools": [
+      {
+        "name": "Compass AI",
+        "logoUrl": "/placeholder.svg?height=32&width=32",
+        "website": "https://www.compass.com/",
+        "prompt": "Advanced market analytics and client matching.",
+        "pricing": "Paid"
+      },
+      {
+        "name": "Cherre AI",
+        "logoUrl": "/placeholder.svg?height=32&width=32",
+        "website": "https://cherre.com/",
+        "prompt": "Real estate data intelligence and analytics.",
+        "pricing": "Paid"
+      },
+      {
+        "name": "Reonomy AI",
+        "logoUrl": "/placeholder.svg?height=32&width=32",
+        "website": "https://www.reonomy.com/",
+        "prompt": "Commercial real estate data and insights.",
+        "pricing": "Paid"
+      }
+    ]
+  },
+  {
+    "industry": "Real Estate & Property",
+    "level": "Advanced",
+    "pricing": "Paid",
+    "tools": [
+      {
+        "name": "HouseCanary AI",
+        "logoUrl": "/placeholder.svg?height=32&width=32",
+        "website": "https://www.housecanary.com/",
+        "prompt": "Predictive real estate analytics and valuation.",
+        "pricing": "Paid"
+      },
+      {
+        "name": "Skyline AI",
+        "logoUrl": "/placeholder.svg?height=32&width=32",
+        "website": "https://www.skyline-ai.com/",
+        "prompt": "AI-driven real estate investment decisions.",
+        "pricing": "Paid"
+      },
+      {
+        "name": "Entera AI",
+        "logoUrl": "/placeholder.svg?height=32&width=32",
+        "website": "https://www.entera.ai/",
+        "prompt": "Automated real estate acquisition and analysis.",
+        "pricing": "Paid"
+      }
+    ]
+  }
+]
