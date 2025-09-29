@@ -122,4 +122,56 @@
   body {
     @apply bg-background text-foreground;
   }
+
+  /* Fix navbar background & stacking */
+  nav {
+    background-color: var(--background); /* Solid background */
+    position: fixed; /* Stick to top */
+    top: 0;
+    left: 0;
+    width: 100%;
+    z-index: 50; /* Always above content */
+  }
+
+  /* Push body down so content doesn't hide under navbar */
+  body {
+    padding-top: 70px; /* adjust to your navbar height */
+  }
+
+  /* Add cursor pointer for all interactive elements */
+  button:not(:disabled),
+  [role="button"]:not(:disabled) {
+    cursor: pointer;
+  }
+  
+/* Remove Industries nav item completely */
+nav .btn-industries,
+nav a[href*="industries"],
+nav [class*="industries"] {
+  display: none !important;
+}
+
+  
+  /* Center home button in navigation */
+  .btn-home {
+    position: absolute !important;
+    left: 50% !important;
+    transform: translateX(-50%) !important;
+  }
+  
+  /* Smooth scroll behavior */
+  html {
+    scroll-behavior: smooth;
+  }
+}
+
+/* Additional hover styles for specific buttons */
+.btn-beginner:hover,
+.btn-intermediate:hover,
+.btn-advanced:hover,
+.btn-signin:hover,
+.btn-filter:hover,
+.btn-home:hover,
+.btn-search:hover {
+  cursor: pointer;
 }

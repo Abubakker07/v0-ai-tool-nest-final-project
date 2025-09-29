@@ -1,6 +1,6 @@
 "use client"
 
-import { Search, User, Home, Building2, LogOut } from "lucide-react"
+import { Search, User, Home, LogOut } from "lucide-react" // Removed Building2
 import { Button } from "@/components/ui/button"
 import {
   DropdownMenu,
@@ -47,7 +47,8 @@ export function Navigation({ onSearchFocus, onProfileClick }: NavigationProps) {
   return (
     <>
       <nav className="border-b border-border bg-card/50 backdrop-blur-sm sticky top-0 z-50">
-        <div className="max-w-7xl mx-auto px-6 py-4">
+        <div className="max-w-7xl mx-auto px-0 py-0">
+
           <div className="flex items-center justify-between">
             {/* Logo */}
             <div className="flex items-center space-x-2">
@@ -63,10 +64,7 @@ export function Navigation({ onSearchFocus, onProfileClick }: NavigationProps) {
                 <Home className="w-4 h-4" />
                 <span>Home</span>
               </Button>
-              <Button variant="ghost" className="flex items-center space-x-2">
-                <Building2 className="w-4 h-4" />
-                <span>Industries</span>
-              </Button>
+              {/* Industries button removed */}
             </div>
 
             {/* Search and Profile */}

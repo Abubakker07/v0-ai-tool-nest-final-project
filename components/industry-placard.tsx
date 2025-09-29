@@ -65,24 +65,27 @@ export function IndustryPlacard({
       {/* Backdrop overlay when focused */}
       {isFocused && (
         <div
-          className="fixed inset-0 bg-background/80 backdrop-blur-sm z-40 animate-in fade-in-0 duration-300"
+          className="fixed inset-0 bg-background/100 backdrop-blur-sm z-40 animate-in fade-in-0 duration-300"
           onClick={onBlur}
         />
       )}
 
-      <div
-        className={`
-          bg-card border border-border rounded-xl p-6 transition-all duration-300 cursor-pointer
-          ${
-            isFocused
-              ? "fixed inset-4 md:inset-8 lg:inset-16 z-50 shadow-2xl shadow-primary/20 scale-100 animate-in zoom-in-95 fade-in-0 duration-300 overflow-y-auto"
-              : isBlurred
-                ? "blur-sm opacity-50 scale-95 hover:blur-none hover:opacity-100 hover:scale-100"
-                : "hover:border-primary/50 hover:shadow-lg hover:shadow-primary/10 hover:scale-[1.02] hover:-translate-y-1"
-          }
-        `}
-        onClick={handleCardClick}
-      >
+     <div
+  className={`
+    bg-card border border-border rounded-xl p-6 transition-all duration-300 cursor-pointer h-full flex flex-col
+    ${
+      isFocused
+        ? "fixed inset-4 md:inset-8 lg:inset-16 z-50 shadow-2xl shadow-primary/20 scale-100 animate-in zoom-in-95 fade-in-0 duration-300 overflow-y-auto"
+        : isBlurred
+          ? "blur-sm opacity-50 scale-95 hover:blur-none hover:opacity-100 hover:scale-100"
+          : "hover:border-primary/50 hover:shadow-lg hover:shadow-primary/10 hover:scale-[1.02] hover:-translate-y-1"
+    }
+  `}
+  style={{ minHeight: "350px" }} // 👈 ensures all cards have same base height
+  onClick={handleCardClick}
+>
+
+      
         {/* Close button when focused */}
         {isFocused && (
           <Button
